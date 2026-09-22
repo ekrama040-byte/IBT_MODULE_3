@@ -1,4 +1,4 @@
-export default function Dish({ name, price }) {
+﻿export default function Dish({ name, price }) {
   return (
     <div className="dish">
       <h3>{name}</h3>
